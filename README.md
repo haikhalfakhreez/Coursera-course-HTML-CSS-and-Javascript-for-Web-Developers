@@ -1,1 +1,2 @@
-# This is a solution to module 2 from a course I learnt from Coursera
+# Assignment for Module 2 
+This is a solution to Module 2 from a course I learnt from Coursera.
